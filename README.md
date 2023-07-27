@@ -9,3 +9,5 @@ The Module 4 study is the fourth and final in a series of data modeling initiati
 3. overutilization of the assessment appeal process
 
 Within this context, **the specific objective of the Module 4 study is to a identify a property valuation model(s) that outperforms CCAO's "first-pass" model as measured by coefficient of dispersion (COD).**  As further detailed below, COD directly measures the variability of assessment outcomes.
+
+![image-3.png](attachment:image-3.png)
