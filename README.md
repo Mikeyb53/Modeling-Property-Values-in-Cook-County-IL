@@ -1,14 +1,11 @@
 # Modeling Property Values in Cook County, IL
-This is the main read me file which contains all the information about the porject that I have done for creating and deploying a movie recommendation system from scratch.
+This is the U of Chicago Master-Track Module 4 project modeling property values in the Northern Triad of Cook County, IL (Chicago).
 
-This readme.md file will act as an information file:
+### Purpose & Objective
+The Module 4 study is the fourth and final in a series of data modeling initiatives aimed at addressing three primary shortcomings identified in Civic Consulting Alliance's (CCA) third-party review of the property tax assessment process and outcomes of the Cook County Assessors Office (CCAO):
 
-There is one file attached to the repository which act as a single file for the movie recommendation system.
+1. variability in assessment outcomes
+2. valuation regressivity
+3. overutilization of the assessment appeal process
 
-In this file:
-
-Exploratory Data Analysis
-
-Content Based Filtering Techniques
-
-Collaborative Filtering Techniques
+Within this context, **the specific objective of the Module 4 study is to a identify a property valuation model(s) that outperforms CCAO's "first-pass" model as measured by coefficient of dispersion (COD).**  As further detailed below, COD directly measures the variability of assessment outcomes.
